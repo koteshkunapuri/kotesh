@@ -1,0 +1,13 @@
+.card{
+    align-items: center;
+    margin-top: 20px;
+    width: 300px;
+    background-color: rgb(176, 99, 199);
+    margin-top: 150px;
+}
+h3{
+    margin-left: 65px;
+}
+.btn{
+    margin-left: 65px;
+}

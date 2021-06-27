@@ -1,0 +1,22 @@
+
+
+.row{
+    margin-top: 120px;
+    background: rgb(118, 199, 199);
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    background: rgb(226, 154, 128);
+width:100%;
+}
+
+    .column {
+        flex: 33.33%;
+        padding: 5px;
+        background-color: rgb(49, 116, 116);
+        
+      }
+      h3{
+          text-align: center;
+      }
+    

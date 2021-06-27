@@ -1,0 +1,15 @@
+.card{
+    align-items: center;
+    margin-top: 20px;
+    width: 500px;
+    background-color: rgb(79, 199, 149);
+    color: white;
+    margin-top: 100px;
+}
+
+h3{
+    margin-left: 65px;
+}
+.btn{
+    margin-left: 65px;
+}

@@ -1,0 +1,38 @@
+*{margin: 0%; padding: 0%;}
+.navbar{
+    width: 100%;
+    padding: 10px;
+    background-color:rgb(153, 238, 234);
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}
+li.pointer {
+    cursor: pointer;
+  }
+  li:hover {
+    background-color: #ccc;
+  }
+
+
+.brand ul{
+    display: flex;
+}
+.brand ul li{
+    padding: 10px;
+    list-style: none;
+   
+}
+body{
+    margin-top: 10px;
+    background-image: url(../assets/images/4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* height: 400vh;*/
+}

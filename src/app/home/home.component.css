@@ -1,0 +1,43 @@
+#k{
+    margin-top: 50px;
+    text-align: center;
+}
+p{
+    text-align: left;
+    margin-left: 10px;
+}
+.center{
+    display: block;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+marquee{
+    color: rgb(3, 3, 22);
+    font-weight: bold;
+}
+h2{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.card1{
+    margin-left: 60px;
+}
+.card4{
+    margin-left: 60px;
+}
+.card3{
+    margin-left: 60px;
+}
+.card6{
+    margin-left: 65px;
+}
+
+
+
+
+
+
+    
+

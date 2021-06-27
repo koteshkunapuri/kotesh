@@ -1,0 +1,27 @@
+.row{
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.ts{
+    margin-top: 20px;
+    background-color: silver;
+}
+
+
+h5{
+    margin-top: 20px;
+    color: rgb(212, 114, 114);
+}
+.container{
+    margin-top: 20px;
+
+}
+.murrel{
+margin-left: 80px;
+background-color: rgb(240, 136, 118);
+}
+.card-title{
+    color:black;
+    text-align: center;
+}
